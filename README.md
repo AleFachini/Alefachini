@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything related to mobile development (mostly) 🤣
 - 👯 I’m looking to work as a full time Flutter developer in all platforms
-- 🥅 2022 Goals: Being able to teach flutter to others to empower the framework
+- 🥅 2024 Goals: Being able to teach flutter to others to empower the framework
 - ⚡ Fact: I love to play games :smile: 
 
 
